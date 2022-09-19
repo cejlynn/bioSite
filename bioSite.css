@@ -47,7 +47,7 @@ body {background-color: #eaeaea;
     color:#a6b1b3;
     font-size: 12px;
     position: absolute;
-    top: 325px;
+    top: 635px;
     left: 50px;}
     
     .caption2 {background-color: none;
@@ -65,6 +65,14 @@ body {background-color: #eaeaea;
     position: absolute;
     top: 325px;
     left: 950px;}
+
+    .caption4 {background-color: none;
+        font-family:'Chakra Petch', sans-serif;
+        color:#a6b1b3;
+        font-size: 12px;
+        position: absolute;
+        top: 325px;
+        left: 50px;}
     
     .landing {background-color: none;
     width: 500px;
@@ -133,3 +141,5 @@ body {background-color: #eaeaea;
     position: absolute;
     top: 165px;
     left: 950px;}
+
+   
